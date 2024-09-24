@@ -10,7 +10,3 @@ Simple project show-casing git
 - two
 - three
 
-## Table
-| One | Two |
-___
-|1|1| 
