@@ -1,6 +1,6 @@
 # Hillel Git Demo
 
-Simple project show casing git
+Simple project show-casing git
 
 [google.com](google.com)
 
