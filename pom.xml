@@ -17,6 +17,7 @@
     </properties>
 
     <dependencies>
+<!--        Version 5.11-->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
