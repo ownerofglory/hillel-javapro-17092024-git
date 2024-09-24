@@ -10,3 +10,5 @@ Simple project show-casing git
 - two
 - three
 
+## Tech stack
+- Java 
